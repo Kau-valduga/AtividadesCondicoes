@@ -14,7 +14,6 @@ public class Atividade1 {
             System.out.println("É maior de idade");
         } else {
             System.out.println("Não é maior de idade");
-
         }
     }
 }
